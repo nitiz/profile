@@ -2,4 +2,7 @@ title: Nitiz Verma
 description: Automation Solution Architect, Capgemini
 show_downloads: false
 google_analytics:
+github:
+  zip_url: http://example.com/download.zip
+  url: https://github.com/nitiz
 theme: jekyll-theme-cayman
